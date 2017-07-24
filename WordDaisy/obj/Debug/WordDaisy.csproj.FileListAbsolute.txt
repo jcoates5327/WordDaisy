@@ -1,0 +1,11 @@
+C:\Users\Justin\documents\visual studio 2015\Projects\WordDaisy\WordDaisy\bin\Debug\WordDaisy.exe.config
+C:\Users\Justin\documents\visual studio 2015\Projects\WordDaisy\WordDaisy\bin\Debug\WordDaisy.exe
+C:\Users\Justin\documents\visual studio 2015\Projects\WordDaisy\WordDaisy\bin\Debug\WordDaisy.pdb
+C:\Users\Justin\documents\visual studio 2015\Projects\WordDaisy\WordDaisy\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Justin\documents\visual studio 2015\Projects\WordDaisy\WordDaisy\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Justin\documents\visual studio 2015\Projects\WordDaisy\WordDaisy\obj\Debug\WordDaisy.Form1.resources
+C:\Users\Justin\documents\visual studio 2015\Projects\WordDaisy\WordDaisy\obj\Debug\WordDaisy.Properties.Resources.resources
+C:\Users\Justin\documents\visual studio 2015\Projects\WordDaisy\WordDaisy\obj\Debug\WordDaisy.csproj.GenerateResource.Cache
+C:\Users\Justin\documents\visual studio 2015\Projects\WordDaisy\WordDaisy\obj\Debug\WordDaisy.exe
+C:\Users\Justin\documents\visual studio 2015\Projects\WordDaisy\WordDaisy\obj\Debug\WordDaisy.pdb
+C:\Users\Justin\documents\visual studio 2015\Projects\WordDaisy\WordDaisy\obj\Debug\WordDaisy.csprojResolveAssemblyReference.cache
